@@ -1,4 +1,0 @@
-linkcheck
-markdownlint
-toctree
-toctrees
